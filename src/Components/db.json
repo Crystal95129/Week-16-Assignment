@@ -1,0 +1,38 @@
+{
+    "activites":[
+        {
+          "id": "ea3b1667-82b1-431f-a946-4df545b928a2",
+          "name": "Outdoor Activites",        
+          "session1": "ATV Tour",
+          "session2": "Hiking",
+          "session3": "Ziplining",
+          "rating": {
+            "rate": "4.7",
+            "count": "7029"
+          }
+          
+        },
+        {
+          "id": "ccd3e8c2-c4bf-457a-a873-87c0f1cdfa6f",
+          "name": "Ocean Activities",
+          "session4": "Snorkling",
+          "session5": "Boat",
+          "session6": "Jetski",
+          "rating": {
+            "rate": "2.4",
+            "count": "8837"
+          }
+        },
+        {
+          "id": "149944ea-cb8f-4a68-886e-f1d56e46ae35",
+          "name": "Nature Activities",
+          "session7": "Waterfall Tour",
+          "session8": "Farm Tour",
+          "session9": "Woods Tour",
+          "rating": {
+            "rate": "4.5",
+            "count": "4604"
+          }
+        }
+      ]
+}
